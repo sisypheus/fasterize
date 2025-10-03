@@ -41,8 +41,6 @@ export const filterUtils: Record<string, FilterFunction> = {
     const startDate = start && start.trim() ? new Date(start) : null;
     const endDate = end && end.trim() ? new Date(end) : null;
 
-    console.log(startDate)
-    console.log(endDate)
     if (startDate && endDate) {
       return date >= startDate && date <= endDate;
     } else if (startDate) {
