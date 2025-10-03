@@ -20,3 +20,8 @@ Open [fasterize.vercel.app](https://fasterize.vercel.app)
 
 ### Or view the demo :
 [loom link](https://www.loom.com/share/2dbc7e464a3348b0b1268710424323da?sid=5bc2f794-2a20-477c-97d0-ee90199a5c2e)
+
+## TODO :
+[ ] better responsivity
+[ ] more comprehensive design
+[ ] remove useEffect hooks and code quality
